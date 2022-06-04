@@ -1,0 +1,9 @@
+--dans un bloc pl/sql anonyme , definir un type enregistrement (record) avec les champs suivants : 
+--nom du meme type que l'attribute ENAME de la table Emp : 
+-- fonction // // // // // Job // // // // 
+--salaire-tot // // // // Sal // // /// // 
+--definir un variable de ce type 
+-- definir un cursor parametré de lister le nom , la fonction et le salaire totale (sal+commission) des employée d' un départment (Ndep) de la 
+--table emp 
+-- dans la section de code , parcourir le curseur parametre pour le départment n 30 , stockées le résultat dans le enregistrement et afficher au format 
+--<<Nom(Fonction) : Salaire-tot£>>
